@@ -35,6 +35,8 @@ UPenn Full Stack Coding Module 19: PWA
 Repo: 
 https://github.com/JoshuaCarter99/texteditor
 
+(https://github.com/JoshuaCarter99/texteditor/blob/main/Screenshot%20(27).png)
+
 ## License
 
 MIT License
